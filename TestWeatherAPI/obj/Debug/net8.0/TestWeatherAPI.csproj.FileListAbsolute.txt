@@ -1,0 +1,14 @@
+D:\Coding\C#\TestWeatherAPI\TestWeatherAPI\TestWeatherAPI\obj\Debug\net8.0\TestWeatherAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\TestWeatherAPI\TestWeatherAPI\TestWeatherAPI\obj\Debug\net8.0\TestWeatherAPI.AssemblyInfoInputs.cache
+D:\Coding\C#\TestWeatherAPI\TestWeatherAPI\TestWeatherAPI\obj\Debug\net8.0\TestWeatherAPI.AssemblyInfo.cs
+D:\Coding\C#\TestWeatherAPI\TestWeatherAPI\TestWeatherAPI\obj\Debug\net8.0\TestWeatherAPI.csproj.CoreCompileInputs.cache
+D:\Coding\C#\TestWeatherAPI\TestWeatherAPI\TestWeatherAPI\bin\Debug\net8.0\TestWeatherAPI.exe
+D:\Coding\C#\TestWeatherAPI\TestWeatherAPI\TestWeatherAPI\bin\Debug\net8.0\TestWeatherAPI.deps.json
+D:\Coding\C#\TestWeatherAPI\TestWeatherAPI\TestWeatherAPI\bin\Debug\net8.0\TestWeatherAPI.runtimeconfig.json
+D:\Coding\C#\TestWeatherAPI\TestWeatherAPI\TestWeatherAPI\bin\Debug\net8.0\TestWeatherAPI.dll
+D:\Coding\C#\TestWeatherAPI\TestWeatherAPI\TestWeatherAPI\bin\Debug\net8.0\TestWeatherAPI.pdb
+D:\Coding\C#\TestWeatherAPI\TestWeatherAPI\TestWeatherAPI\obj\Debug\net8.0\TestWeatherAPI.dll
+D:\Coding\C#\TestWeatherAPI\TestWeatherAPI\TestWeatherAPI\obj\Debug\net8.0\refint\TestWeatherAPI.dll
+D:\Coding\C#\TestWeatherAPI\TestWeatherAPI\TestWeatherAPI\obj\Debug\net8.0\TestWeatherAPI.pdb
+D:\Coding\C#\TestWeatherAPI\TestWeatherAPI\TestWeatherAPI\obj\Debug\net8.0\TestWeatherAPI.genruntimeconfig.cache
+D:\Coding\C#\TestWeatherAPI\TestWeatherAPI\TestWeatherAPI\obj\Debug\net8.0\ref\TestWeatherAPI.dll
